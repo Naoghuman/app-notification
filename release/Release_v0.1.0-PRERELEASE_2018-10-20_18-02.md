@@ -1,12 +1,12 @@
-Welcome to `Notification` with the new release `vX.Y.Z`.
+Welcome to `Notification` with the new release `v0.1.0-PRERELEASE`.
 
 TODO
 
 
 
 #### Summary
-* ...
-* ...
+* Implementation from the basic project structure.
+* Add basic concept for the application.
 
 
 
