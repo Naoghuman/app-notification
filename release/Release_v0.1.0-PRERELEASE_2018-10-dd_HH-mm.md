@@ -15,6 +15,7 @@ TODO
 
 
 #### Feature
+#3 [app] Add badges from img.shield.io to the ReadMe.md.
 #1 [app] Create basic project structure.
 
 
