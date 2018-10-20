@@ -1,4 +1,4 @@
-Welcome to `Notification` with the new release `vX.Y.Z`.
+Welcome to `Notification` with the new release `v0.2.0-PRERELEASE`.
 
 TODO
 
