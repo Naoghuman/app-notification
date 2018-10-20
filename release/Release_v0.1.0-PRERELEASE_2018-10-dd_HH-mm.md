@@ -31,6 +31,7 @@ TODO
 
 
 #### Documentation
+#4 [doc] Create basic concept for the application.
 
 
 
