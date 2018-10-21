@@ -1,6 +1,9 @@
 Welcome to `Notification` with the new release `vX.Y.Z`.
 
-TODO
+`Notification` is a little [JavaFX] &amp; [Maven] desktop application which 
+notifies the user about some nice topics.  
+For example about jokes, emoticons, yin-yang terms, quotations, proverbs, 
+rimes...
 
 
 

@@ -8,7 +8,8 @@
     <packaging>jar</packaging>
     <name>App-Notification</name>
     
-    <description>TODO</description>
+    <description>`Notification` is a little [JavaFX] &amp; [Maven] desktop application which notifies the user about some nice topics. 
+For example about jokes, emoticons, yin-yang terms, quotations, proverbs, rimes...</description>
     
     <developers>
         <developer>
