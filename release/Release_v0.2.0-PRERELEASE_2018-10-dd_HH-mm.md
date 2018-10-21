@@ -8,8 +8,8 @@ rimes...
 
 
 #### Summary
-* ...
-* ...
+* Implement the basic application gui.
+* Create new concept for the next release about entities.
 
 
 
