@@ -18,6 +18,7 @@ rimes...
 
 
 #### Feature
+#7 [app] Implement the basic main application gui.
 
 
 
