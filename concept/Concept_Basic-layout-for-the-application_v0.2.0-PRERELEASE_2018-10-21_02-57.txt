@@ -1,0 +1,54 @@
+--------------------------------------------------------------------------------
+CONCEPT Basic layout for the application
+--------------------------------------------------------------------------------
+DESCRIPTION
+This concept descripted the basic layout for the application.
+
+--------------------------------------------------------------------------------
+BASIC LAYOUT
+Application
+ - Simple window.
+ - Use the 'template' project.
+ - TabPane with left Tabs (like in ConfigurationDialog from App-Yin-Yang)
+
+NotificationThumbnailEntryDialog
+ - Little dialog which shows the thumnail for a entry from a notification topic.
+
+NotificationDetailsEntryDialog
+ - Click on the NotificationDialog show the details dialog.
+ - User can learn, read more about the entry from the spezific topic.
+
+--------------------------------------------------------------------------------
+ENTITITES
+NotificationTopic
+ - Every NotificationTopic have a own Tab in the application.
+ - User can configure the topics.
+ - A NotificationTopic can have xy NotificationEntries.
+
+NotificationEntry
+ - A spezific entry from a NotificationTopic.
+ - A NotificationEntry have one NotificationThumbnailEntry.
+ - A NotificationEntry have one NotificationDetailsEntry.
+
+NotificationThumbnailEntry
+ - Will be shown in the NotificationThumbnailEntryDialog.
+
+NotificationDetailsEntry
+ - Will be shown in the NotificationDetailsEntryDialog.
+
+--------------------------------------------------------------------------------
+NotificationProvider
+ - Managed the complete stuff for notifications.
+ - CRUD NotificationTopics, -Entries.
+ - Additional support methods to handle the NotificationTopics, -Entries.
+
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

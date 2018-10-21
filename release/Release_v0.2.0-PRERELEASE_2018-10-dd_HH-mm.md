@@ -27,6 +27,7 @@ TODO
 
 
 #### Documentation
+#6 [doc] Create a basic layout concept for the application gui.
 
 
 
